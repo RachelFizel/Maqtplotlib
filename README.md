@@ -1,4 +1,4 @@
-# Maqtplotlib
+# Matplotlib
 This is a repo for my 05-Matplotlib
 
 
